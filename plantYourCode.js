@@ -1,4 +1,4 @@
-// Challenge 1.1 Solution
+// Challenge 1.1 Solution (Mint Selection)
 
 function grid(seedCount) {
   console.log("point");
@@ -7,7 +7,7 @@ function grid(seedCount) {
   return [length, width];
 }
 
-// Challenge 1.2 Solution
+// Challenge 1.2 Solution (Mint Selection)
 
 function whereToWater(plantsArray) {
     return plantsArray
@@ -15,7 +15,7 @@ function whereToWater(plantsArray) {
         .map(plant => plant.gardenLocation)
 }
 
-// Challenge 1.3 Solution
+// Challenge 1.3 Solution (Mint Selection)
 
 function translatePlantLatin(message) {
   message = message.toLowerCase();
